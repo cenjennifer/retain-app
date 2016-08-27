@@ -32,5 +32,5 @@ import { NoteCard } from '../ui';
   `
 })
 export class Notes {
-  note = {title: 'Chores', value: 'Don\'t forget to clean up', color: 'lighblue'};
+  note = {title: 'Chores', value: 'Don\'t forget to clean up', color: 'seagreen'};
 }
